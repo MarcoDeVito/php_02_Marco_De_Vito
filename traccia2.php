@@ -16,6 +16,6 @@ foreach ($numbers as  $number) {
 $media=$sum/$i;
 echo "somma:$sum";
 echo "\n";
-echo "quantità num dispari:$i";
+echo "quantità num pari:$i";
 echo "\n";
 echo "media:$media";
